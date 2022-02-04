@@ -12,3 +12,5 @@ Luftqualitätssensor |
 Mikrofon | 
 CO2 |
 Feinstaub | 
+Magnetometer | 
+Feldmühle | 
